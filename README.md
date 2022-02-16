@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
 <h3 align="center">Data Scientist from India.</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Audio Processing Recommendation Systems**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Audio Processing and Recommendation Systems**
 
 - 👨‍💻 All of my projects are available at [https://www.akshatsurolia.com](https://www.akshatsurolia.com)
 
